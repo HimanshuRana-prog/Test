@@ -1,5 +1,5 @@
 it will store fruits name
-apple
+new apple
 banana
 orange
 peach
