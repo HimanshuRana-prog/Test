@@ -1,0 +1,5 @@
+it will store fruits name
+apple
+banana
+orange
+peach
